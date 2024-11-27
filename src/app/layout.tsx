@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/naming-convention */
+/* eslint-disable @typescript-eslint/consistent-type-imports */
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";

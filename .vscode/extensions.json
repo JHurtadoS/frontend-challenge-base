@@ -6,6 +6,13 @@
     "usernamehw.errorlens",
     "streetsidesoftware.code-spell-checker",
     "vivaxy.vscode-conventional-commits",
-    "inlang.vs-code-extension"
+    "inlang.vs-code-extension",
+    "wallabyjs.console-ninja",
+    "vscode-icons-team.vscode-icons",
+    "austenc.tailwind-docs",
+    "christian-kohler.path-intellisense",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss"
   ]
 }

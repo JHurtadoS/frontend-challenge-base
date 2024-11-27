@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/naming-convention */
 import RootLayout from "./layout";
 
 export default function Home(): JSX.Element {
